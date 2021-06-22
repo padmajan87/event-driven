@@ -1,0 +1,7 @@
+*.class
+*.jar
+target/
+.project
+.settings
+.factorypath
+.classpath
